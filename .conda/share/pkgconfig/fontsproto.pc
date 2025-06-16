@@ -1,0 +1,7 @@
+prefix=/home/yash-more/Downloads/1-2 vac/karpathy/rebuilt/makemore_MLP/.conda
+includedir=${prefix}/include
+ 
+Name: FontsProto
+Description: Fonts extension headers
+Version: 2.1.3
+Cflags: -I${includedir}

@@ -1,0 +1,7 @@
+prefix=/home/yash-more/Downloads/1-2 vac/karpathy/rebuilt/makemore_MLP/.conda
+includedir=${prefix}/include
+
+Name: DamageProto
+Description: Damage extension headers
+Version: 1.2.1
+Cflags: -I${includedir}

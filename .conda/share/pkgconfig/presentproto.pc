@@ -1,0 +1,7 @@
+prefix=/home/yash-more/Downloads/1-2 vac/karpathy/rebuilt/makemore_MLP/.conda
+includedir=${prefix}/include
+ 
+Name: PresentProto
+Description: Present extension headers
+Version: 1.4
+Cflags: -I${includedir}

@@ -1,0 +1,7 @@
+prefix=/home/yash-more/Downloads/1-2 vac/karpathy/rebuilt/makemore_MLP/.conda
+includedir=${prefix}/include
+
+Name: VideoProto
+Description: Video extension headers
+Version: 2.3.3
+Cflags: -I${includedir}
